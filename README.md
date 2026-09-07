@@ -1,9 +1,28 @@
-# Hi, I'm Prathmesh Pawar 👋
-MSc Advanced Computer Science | Full Stack Developer (ASP.NET MVC, C#, AngularJS) | Cloud • Big Data • AI
+# Prathmesh Pawar
 
-I’m a detail-oriented Software Developer and Data Enthusiast with 2+ years building scalable web apps (HealthCard, Library, POS systems) and university projects in Remote Sensing & Big Data. Currently pursuing MSc Advanced Computer Science, University of Leicester.
+Software Developer | C#/.NET | Backend Development | AI-Enabled Applications
 
-🔭 Currently: MSc coursework & personal projects  
-💼 Experience: Junior Software Developer — Acssel Infotech Pvt. Ltd.  
-📫 Email: prathmeshwork01@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/prathmesh-pawar-29b5a7228
+## About Me
+
+I'm a software developer with 2.5+ years of commercial experience across trainee and junior developer roles at Acssel Infotech Pvt. Ltd. My commercial work focused on C#, ASP.NET MVC, JavaScript and SQL. I'm currently completing an MSc in Advanced Computer Science at the University of Leicester.
+
+## Core Technologies
+
+- **Commercial background:** C#, .NET, ASP.NET MVC, JavaScript, SQL.
+- **Project work:** ASP.NET Core, REST APIs, Entity Framework Core, SQL Server, PostgreSQL, JWT authentication.
+
+## Selected Projects
+
+Selected repositories will be featured here after technical and publication review.
+
+## Current Focus
+
+- Modern .NET engineering and backend/API design.
+- Authentication, relational data modelling and automated testing.
+- AI-enabled applications and third-party integrations.
+- Cloud computing, data-intensive systems and software architecture through MSc study.
+
+## Links
+
+- [Portfolio](https://prathmesh-portfolio.vercel.app)
+- [LinkedIn](https://linkedin.com/in/prathmesh-pawar-29b5a7228)
